@@ -4,7 +4,7 @@
 
 function findAverage(array) {
   if (array.length === 0) {
-    return undefined;
+    return 0;
   }
 
   let sum = 0;
