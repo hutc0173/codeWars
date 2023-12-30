@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sammy Hutchinson</h1>
+<h1 align="center">Hi 👋, I'm Sammy</h1>
 <h3 align="center">Uploading my Code Wars to keep me coding everyday</h3>
 
-- 🌱 I’m currently learning **JavaScript, Figma, Tailwind**
+- 🌱 I’m currently learning **JavaScript**
 
 
 
