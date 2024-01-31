@@ -30,3 +30,9 @@ function sum(numbers) {
 }
 
 console.log(sum([1, 5.2, 4, 0, -1]));
+
+//  simple way
+
+function sum(numbers) {
+  return numbers.reduce((a, b) => a + b, 0);
+}
