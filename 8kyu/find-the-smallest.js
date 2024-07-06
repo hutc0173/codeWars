@@ -14,7 +14,6 @@ function findSmallestInt(arr) {
       smallest = arr[i];
     }
   }
-
   return smallest;
 }
 console.log(findSmallestInt([34, 15, 88, 2]));
