@@ -3,8 +3,8 @@
 // Note: Only valid inputs will be given
 
 function booleanToString(b) {
-  let text = b.toString();
-  return text;
+  return b.toString();
 }
 
-let result = booleanToString(true);
+console.log(booleanToString(true)); // "true"
+console.log(booleanToString(false)); // "false"
