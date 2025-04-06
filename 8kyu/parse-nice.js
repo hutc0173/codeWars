@@ -12,7 +12,3 @@ function getAge(inputString) {
 }
 
 console.log(getAge("5 hello dave how are you"));
-
-// spilt the string up
-// take first element out
-// turn into a int
